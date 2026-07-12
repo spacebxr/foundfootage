@@ -119,6 +119,9 @@ public class SPBRevampedClient implements ClientModInitializer {
         InitializePackets.registerS2CPackets();
 
         ModKeyBinds.initializeKeyBinds();
+        
+        net.fabricmc.fabric.api.client.command.v2.ClientCommandRegistrationCallback.EVENT.register(com.sp.command.client.TesterCommand::register);
+
 
         FlockManager.init();
 
