@@ -2,7 +2,7 @@
   "intro.backrooms": "The Backrooms",
   "intro.credit": "A Mod By ",
 
-  "itemgroup.spbrevamped": "Backrooms",
+  "itemgroup.spbrevamped": "Liminal Rooms",
 
   "flashlight.hint": "El fenerinizi kullanmak için %s tuşuna basın",
   "noclip.hint": "Backrooms'a girmek için kendini kum veya çakılda boğ",
@@ -137,7 +137,7 @@
   "death.attack.smiler": "%1$s Smiler tarafından öldürüldü!",
   "death.attack.skin_walker": "%1$s Skin Walker tarafından öldürüldü!",
 
-  "spb-revamped.keybinds": "SPB-Revamped",
+  "spb-revamped.keybinds": "Liminal Rooms",
   "key.spb-revamped.toggle_flashlight": "El fenerini aç/kapat",
   "key.spb-revamped.toggle_event": "Etkinliği Değiştir",
 

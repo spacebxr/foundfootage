@@ -2,7 +2,7 @@
   "intro.backrooms": "Die Backrooms",
   "intro.credit": "Eine Mod von ",
 
-  "itemgroup.spbrevamped": "Backrooms",
+  "itemgroup.spbrevamped": "Liminal Rooms",
 
   "flashlight.hint": "Drücke %s um die Taschenlampe zu nutzen",
   "noclip.hint": "Ersticke in Sand oder Kies, um die Backrooms zu betreten",
@@ -136,7 +136,7 @@
   "death.attack.smiler": "%1$s wurde von einem Smiler getötet!",
   "death.attack.skin_walker": "%1$s wurde von einem Skin Walker getötet!",
 
-  "spb-revamped.keybinds": "SPB-Revamped",
+  "spb-revamped.keybinds": "Liminal Rooms",
   "key.spb-revamped.toggle_flashlight": "Taschenlampe umschalten",
   "key.spb-revamped.toggle_event": "Ereignis auslösen",
 

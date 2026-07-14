@@ -2,7 +2,7 @@
   "intro.backrooms": "The Backrooms",
   "intro.credit": "模组作者 ",
 
-  "itemgroup.spbrevamped": "后室",
+  "itemgroup.spbrevamped": "Liminal Rooms",
 
   "flashlight.hint": "按下 %s 控制手电筒",
   "noclip.hint": "在沙子或砂土中窒息可触发穿模，进入后室",
@@ -134,7 +134,7 @@
   "death.attack.smiler": "%1$s 被笑魇杀害！",
   "death.attack.skin_walker": "%1$s 被窃皮者杀害！",
 
-  "spb-revamped.keybinds": "SPB重制版",
+  "spb-revamped.keybinds": "Liminal Rooms",
   "key.spb-revamped.toggle_flashlight": "切换手电筒",
   "key.spb-revamped.toggle_event": "切换事件",
 

@@ -2,7 +2,7 @@
   "intro.backrooms": "Les Backrooms",
   "intro.credit": "Un Mod de ",
 
-  "itemgroup.spbrevamped": "Backrooms",
+  "itemgroup.spbrevamped": "Liminal Rooms",
 
   "flashlight.hint": "Appuyes sur %s pour allumer ou éteindre ta lampe torche",
   "noclip.hint": "Suffoque dans du sable ou du gravier pour noclip dans les backrooms",
@@ -133,7 +133,7 @@
   "death.attack.smiler": "%1$s a été tué par un Smiler !",
   "death.attack.skin_walker": "%1$s a été tué par un Skin Walker!",
 
-  "spb-revamped.keybinds": "SPB-Revamped",
+  "spb-revamped.keybinds": "Liminal Rooms",
   "key.spb-revamped.toggle_flashlight": "Allumer/Éteindre la lampe torche",
   "key.spb-revamped.toggle_event": "Activer l'événement",
 

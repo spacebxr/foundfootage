@@ -2,7 +2,7 @@
   "intro.backrooms": "Los Backrooms",
   "intro.credit": "Un mod de ",
 
-  "itemgroup.spbrevamped": "Backrooms",
+  "itemgroup.spbrevamped": "Liminal Rooms",
 
   "flashlight.hint": "Presiona %s para prender o apagar la linterna",
   "noclip.hint": "Sofócate con arena o grava para hacer noclip hacia los backrooms",
@@ -124,7 +124,7 @@
   "death.attack.smiler": "¡%1$s fue eliminado por un Smiler!",
   "death.attack.skin_walker": "¡%1$s fue eliminado por un Skin Walker!",
 
-  "spb-revamped.keybinds": "SPB-Revamped",
+  "spb-revamped.keybinds": "Liminal Rooms",
   "key.spb-revamped.toggle_flashlight": "Prender/Apagar Linterna",
   "key.spb-revamped.toggle_event": "Activar Evento",
 

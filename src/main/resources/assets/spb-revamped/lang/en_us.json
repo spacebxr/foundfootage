@@ -2,7 +2,7 @@
   "intro.backrooms": "The Backrooms",
   "intro.credit": "A Mod By ",
 
-  "itemgroup.spbrevamped": "Backrooms",
+  "itemgroup.spbrevamped": "Liminal Rooms",
 
   "flashlight.hint": "Press %s to toggle your flashlight",
   "noclip.hint": "Suffocate yourself in sand or gravel to noclip into the backrooms",
@@ -143,7 +143,7 @@
   "death.attack.smiler": "%1$s was killed by a Smiler!",
   "death.attack.skin_walker": "%1$s was killed by a Skin Walker!",
 
-  "spb-revamped.keybinds": "SPB-Revamped",
+  "spb-revamped.keybinds": "Liminal Rooms",
   "key.spb-revamped.toggle_flashlight": "Toggle Flashlight",
   "key.spb-revamped.toggle_event": "Toggle Event",
 

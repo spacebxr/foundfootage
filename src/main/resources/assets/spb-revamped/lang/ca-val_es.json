@@ -2,7 +2,7 @@
   "intro.backrooms": "Els Backrooms",
   "intro.credit": "Un mod de ",
 
-  "itemgroup.spbrevamped": "Backrooms",
+  "itemgroup.spbrevamped": "Liminal Rooms",
 
   "flashlight.hint": "Prem %s per encendre o apagar la llanterna",
   "noclip.hint": "Ofega't amb sorra o grava per fer noclip cap als backrooms",
@@ -124,7 +124,7 @@
   "death.attack.smiler": "%1$s ha estat eliminat per un Smiler!",
   "death.attack.skin_walker": "%1$s ha estat eliminat per un Skin Walker!",
 
-  "spb-revamped.keybinds": "SPB-Revamped",
+  "spb-revamped.keybinds": "Liminal Rooms",
   "key.spb-revamped.toggle_flashlight": "Encendre/Apagar Llanterna",
   "key.spb-revamped.toggle_event": "Activar Esdeveniment",
 

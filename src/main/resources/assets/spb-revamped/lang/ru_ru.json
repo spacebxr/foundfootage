@@ -2,7 +2,7 @@
   "intro.backrooms": "Закулисье",
   "intro.credit": "Мод от ",
 
-  "itemgroup.spbrevamped": "Закулисье",
+  "itemgroup.spbrevamped": "Liminal Rooms",
 
   "flashlight.hint": "Нажмите %s, чтобы включить/выключить фонарик",
   "noclip.hint": "Задохнитесь в песке или гравии, чтобы пройти сквозь стены в Закулисье",
@@ -134,7 +134,7 @@
   "death.attack.smiler": "%1$s был убит Улыбающимся!",
   "death.attack.skin_walker": "%1$s был убит Кожекрадом!",
 
-  "spb-revamped.keybinds": "SPB-Revamped",
+  "spb-revamped.keybinds": "Liminal Rooms",
   "key.spb-revamped.toggle_flashlight": "Включить фонарик",
   "key.spb-revamped.toggle_event": "Включить событие",
 
