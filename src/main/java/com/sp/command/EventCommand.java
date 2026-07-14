@@ -8,6 +8,7 @@ import com.sp.cca_stuff.InitializeComponents;
 import com.sp.cca_stuff.WorldEvents;
 import com.sp.init.BackroomsLevels;
 import com.sp.world.events.AbstractEvent;
+import com.sp.world.events.EmptyEvent;
 import com.sp.world.events.infinite_grass.InfiniteGrassAmbience;
 import com.sp.world.events.generic.lights.LightLevelBlackout;
 import com.sp.world.events.generic.lights.LightLevelFlicker;
@@ -73,6 +74,12 @@ public class EventCommand {
                         )
                         .then(CommandManager.literal("sunset")
                                 .executes(context -> doSunset(
+                                                context.getSource()
+                                        )
+                                )
+                        )
+                        .then(CommandManager.literal("cancel")
+                                .executes(context -> doCancel(
                                                 context.getSource()
                                         )
                                 )
@@ -209,6 +216,13 @@ public class EventCommand {
         }
 
         throw SUNSET_EXCEPTION.create();
+    }
+
+    private static int doCancel(ServerCommandSource source) {
+        World world = source.getWorld();
+        WorldEvents events = InitializeComponents.EVENTS.get(world);
+        setEvent(events, world, new EmptyEvent());
+        return 1;
     }
 
     private static void setEvent(WorldEvents events, World world, AbstractEvent activeEvent) {

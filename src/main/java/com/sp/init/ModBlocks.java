@@ -207,10 +207,10 @@ public class ModBlocks {
 
     ///////Infinite Fields Stuff//////
     public static final Block POWER_POLE_TOP = registerBlock("power_pole_top",
-            new UtilityPole(FabricBlockSettings.copyOf(Blocks.OAK_PLANKS).hardness(-1f).noBlockBreakParticles(), 5));
+            new UtilityPole(FabricBlockSettings.copyOf(Blocks.OAK_PLANKS).hardness(-1f).nonOpaque().noBlockBreakParticles(), 5));
 
     public static final Block POWER_POLE = registerBlock("power_pole",
-            new UtilityPole(FabricBlockSettings.copyOf(Blocks.OAK_PLANKS).hardness(-1f).noBlockBreakParticles(), 5));
+            new UtilityPole(FabricBlockSettings.copyOf(Blocks.OAK_PLANKS).hardness(-1f).nonOpaque().noBlockBreakParticles(), 5));
 
     public static final Block DIRT = registerBlock("dirt",
             new Block(FabricBlockSettings.copyOf(Blocks.GRASS_BLOCK).hardness(-1f).noBlockBreakParticles().sounds(SprintBlockSoundGroup.GRASS2)));
@@ -233,10 +233,10 @@ public class ModBlocks {
             new RedMetalCasingBlock(FabricBlockSettings.copyOf(ModBlocks.CONCRETE_BLOCK_9).hardness(-1f).noBlockBreakParticles().sounds(SprintBlockSoundGroup.METAL)));
 
     public static final Block PILLAR = registerBlock("pillar",
-            new PillarBlock(FabricBlockSettings.copyOf(ModBlocks.CONCRETE_BLOCK_9).hardness(-1f).noBlockBreakParticles().sounds(SprintBlockSoundGroup.SHROOMLIGHT)));
+            new PillarBlock(FabricBlockSettings.copyOf(ModBlocks.CONCRETE_BLOCK_9).hardness(-1f).nonOpaque().noBlockBreakParticles().sounds(SprintBlockSoundGroup.SHROOMLIGHT)));
 
     public static final Block POLE = registerBlock("pole",
-            new UtilityPole(FabricBlockSettings.copyOf(ModBlocks.CONCRETE_BLOCK_9).hardness(-1f).noBlockBreakParticles().sounds(SprintBlockSoundGroup.SHROOMLIGHT), 6));
+            new UtilityPole(FabricBlockSettings.copyOf(ModBlocks.CONCRETE_BLOCK_9).hardness(-1f).nonOpaque().noBlockBreakParticles().sounds(SprintBlockSoundGroup.SHROOMLIGHT), 6));
 
     public static final Block LAMP = registerBlock("lamp",
             new LampBlock(FabricBlockSettings.copyOf(ModBlocks.CONCRETE_BLOCK_9).hardness(-1f).noBlockBreakParticles().sounds(SprintBlockSoundGroup.METAL)));
